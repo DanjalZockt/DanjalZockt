@@ -104,6 +104,20 @@ I believe AI can dramatically improve cancer survival rates by optimizing treatm
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanjalZockt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanjalZockt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanjalZockt&theme=tokyonight&hide_border=true&background=0D1117)
+
+</div>
+
+---
+
 ## 📫 Let's Connect
 
 <div align="center">
