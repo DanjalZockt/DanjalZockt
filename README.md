@@ -8,6 +8,8 @@
 [![Website](https://img.shields.io/badge/Quark-7C3AED?style=for-the-badge&logo=atom&logoColor=white)](https://quarkclinical.com)
 [![Microsoft](https://img.shields.io/badge/Microsoft_for_Startups-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://startups.microsoft.com/)
 
+![Profile views](https://komarev.com/ghpvc/?username=DanjalZockt&color=7C3AED&style=for-the-badge)
+
 </div>
 
 - 🔭 Building **[Quark](https://quarkclinical.com)** — an AI-driven precision cancer therapy platform, **live in production**
