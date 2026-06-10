@@ -5,7 +5,7 @@
 ### AI Engineer | Healthcare Tech | Building the Future of Cancer Treatment
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danjal-mutic-86254833b/)
-[![Website](https://img.shields.io/badge/Quark-7C3AED?style=for-the-badge&logo=atom&logoColor=white)](https://danjalzockt.github.io/quark-website/)
+[![Website](https://img.shields.io/badge/Quark-7C3AED?style=for-the-badge&logo=atom&logoColor=white)](https://quarkclinical.com)
 [![Microsoft](https://img.shields.io/badge/Microsoft_for_Startups-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://startups.microsoft.com/)
 
 </div>
@@ -32,7 +32,7 @@ Revolutionizing oncology with AI-driven precision therapy:
 
 **Status:** `████████████████████` **100% Complete**
 
-[**View Project →**](https://danjalzockt.github.io/quark-website/)
+[**View Project →**](https://quarkclinical.com)
 
 </td>
 <td width="40%">
@@ -120,9 +120,9 @@ I believe AI can dramatically improve cancer survival rates by optimizing treatm
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-danjalmutic@lesenmitlust.de-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danjalmutic@lesenmitlust.de)
+[![Email](https://img.shields.io/badge/Email-danjalmutic@quarkclinical.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danjalmutic@quarkclinical.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Danjal_Mutic-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danjal-mutic-86254833b/)
-[![Website](https://img.shields.io/badge/Website-Quark-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://danjalzockt.github.io/quark-website/)
+[![Website](https://img.shields.io/badge/Website-quarkclinical.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://quarkclinical.com)
 
 ---
 
