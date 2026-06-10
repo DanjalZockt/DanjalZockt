@@ -15,7 +15,7 @@
 - 🔭 Building **[Quark](https://quarkclinical.com)** — an AI-driven precision cancer therapy platform, **live in production**
 - 🧠 Training custom transformers for cancer genomics and cybersecurity
 - 🏥 Member of **Microsoft for Startups** — building healthcare AI on Azure
-- 📫 Reach me at **danjalmutic@quarkclinical.com**
+- 📫 Reach me at **[danjalmutic@quarkclinical.com](mailto:danjalmutic@quarkclinical.com)**
 
 ---
 
