@@ -12,9 +12,9 @@
 
 </div>
 
-- 🔭 Building **[Quark](https://quarkclinical.com)** — an AI-driven precision cancer therapy platform, **live in production**
-- 🧠 Training custom transformers for cancer genomics and cybersecurity
-- 🏥 Member of **Microsoft for Startups** — building healthcare AI on Azure
+- 🔭 Building **[Quark](https://quarkclinical.com)**, an AI-driven precision cancer therapy platform, **live in production**
+- 🧠 Training custom transformers for cancer genomics
+- 🏥 Member of **Microsoft for Startups**, building healthcare AI on Azure
 - 📫 Reach me at **[danjalmutic@quarkclinical.com](mailto:danjalmutic@quarkclinical.com)**
 
 ---
@@ -25,11 +25,11 @@
 <tr>
 <td width="60%">
 
-### ⚛️ Quark — AI Cancer Therapy Platform
+### ⚛️ Quark: AI Cancer Therapy Platform
 
 **Status:** 🟢 **Live** → [quarkclinical.com](https://quarkclinical.com)
 
-A 6.36B-parameter cancer genomics transformer that predicts drug response from genomic mutations — grounded in 1,227 CIViC clinical evidence entries.
+A 6.36B-parameter cancer genomics transformer that predicts drug response from genomic mutations, grounded in 1,227 CIViC clinical evidence entries.
 
 | | |
 |---|---|
@@ -89,23 +89,6 @@ A 6.36B-parameter cancer genomics transformer that predicts drug response from g
 ## 🚀 Other Projects
 
 <table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🔐-000?style=for-the-badge" width="60"/>
-<br><b>QUANTA</b>
-<br><sub>Cybersecurity LLM — custom fine-tune<br>of a 397B-parameter model</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🤖-000?style=for-the-badge" width="60"/>
-<br><b>SiriusAI</b>
-<br><sub>Custom AI assistant<br>built on Azure OpenAI</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/💻-000?style=for-the-badge" width="60"/>
-<br><b>WizardCoder</b>
-<br><sub>AI coding assistant<br>for developer workflows</sub>
-</td>
-</tr>
 <tr>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/📺-000?style=for-the-badge" width="60"/>
